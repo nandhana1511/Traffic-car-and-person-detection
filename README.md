@@ -17,7 +17,6 @@ Object Detection with Haar Cascades: Implementing Haar cascade classifiers to de
 Color Identification: Developing a method to identify and label the color of detected cars.
 Result Visualization: Displaying the results using bounding boxes and labels on the detected objects.
 Skills and Competencies
-
 Technical Skills: Proficiency in Python programming, use of OpenCV for image processing, and application of machine learning algorithms.
 Problem-Solving: Ability to troubleshoot issues related to object detection and optimize parameters for better performance.
 Analytical Thinking: Evaluating different approaches for color detection and refining methods to improve accuracy.
@@ -27,8 +26,11 @@ The initial implementation faced challenges related to detection accuracy and pr
 
 **Challenges and Solutions**
 Detection Accuracy: The project initially struggled with accurately detecting cars and people, especially in crowded scenes. Solution: Adjusted parameters in the Haar cascades and resized images to improve detection performance.
-Color Detection: Differentiating between similar colors under varying lighting conditions was challenging. Solution: Refined the color range definitions in HSV color space and implemented a more robust masking technique.
-Outcomes and Impact
+Color Detection: Differentiating between similar colors under varying lighting conditions was challenging. 
+
+Solution: Refined the color range definitions in HSV color space and implemented a more robust masking technique.
+
+**Outcomes and Impact**
 The project successfully developed a tool for detecting cars and people in traffic images and distinguishing car colors. This tool can be applied in real-world scenarios, such as traffic monitoring and automated systems for traffic law enforcement. The project also provided valuable hands-on experience in computer vision and machine learning, contributing to the understanding and application of these technologies in practical contexts.
 
 **Conclusion**
